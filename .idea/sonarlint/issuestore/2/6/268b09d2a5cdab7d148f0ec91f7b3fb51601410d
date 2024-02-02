@@ -1,0 +1,13 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(·šäÈ8±¿«Ö1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ãü‡Ñÿÿÿÿÿ8±¿«Ö1
+L	java:S106 "+Replace this use of System.out by a logger.(¬­ÚÂşÿÿÿÿ8²¿«Ö1
+G	java:S106!"+Replace this use of System.out by a logger.(€¼Ò‰8²¿«Ö1
+L	java:S106)"+Replace this use of System.out by a logger.(¸‘ùêşÿÿÿÿ8ó±«Ö1
+G	java:S106+"+Replace this use of System.out by a logger.(Şé¸†8Ëî«Ö1
+G	java:S106,"+Replace this use of System.out by a logger.(ÀÿÛ˜8Ëî«Ö1
+L	java:S106-"+Replace this use of System.out by a logger.(ŠŠˆšıÿÿÿÿ8³à¡«Ö1
+x
+java:S2159-"VRemove this call to "equals"; comparisons between unrelated types always return false.(ŠŠˆšıÿÿÿÿ8ûœõ«Ö1
+X	java:S1250"<This block of commented-out lines of code should be removed.(å‰Çô8÷æö«Ö1
+L	java:S106>"+Replace this use of System.out by a logger.(ìô¿ÿÿÿÿÿ8Äÿ«Ö1
